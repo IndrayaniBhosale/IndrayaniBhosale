@@ -1,6 +1,6 @@
 ## Hi, I'm Indrayani ✨
 
-👩‍🎓 I’m Indrayani, a CS grad student at CSUF passionate about solving complex problems through clean engineering. My projects range from distributed image classification pipelines to AI-driven security systems, and I thrive in collaborative, Agile teams.</br>
+👩‍🎓 I’m a CS grad student at CSUF passionate about solving complex problems through clean engineering. My projects range from distributed image classification pipelines to AI-driven security systems, and I thrive in collaborative, Agile teams.</br>
 
 
 ## 🌐 Socials:
