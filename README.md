@@ -2,8 +2,6 @@
 
 <img align="right" height="220" src="https://media1.tenor.com/m/xei0iF6HWToAAAAC/pjsk-pjsk-anime.gif" alt="Coding GIF" />
 
-_A girl falling in love with her Machine 💻_
-
 > *"It works on my machine."* — Every developer, ever
 
 <p>
