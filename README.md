@@ -1,8 +1,8 @@
-<h3>Hi there, It's <img src="https://readme-typing-svg.herokuapp.com?font=Roboto&weight=600&size=25&pause=1000&color=F78166&width=220&height=30&lines=Indrayani+%F0%9F%91%8B" alt="Typing SVG" /></h3>
+<h3>Hi there, It's <img src="https://readme-typing-svg.herokuapp.com?font=Roboto&weight=600&multiline=true&size=25&pause=1000&color=2b7fff&width=200&height=30&lines=Indrayani" alt="Typing SVG" style="vertical-align: middle;" /></h3>
+
 
 <img align="right" height="220" src="https://media1.tenor.com/m/xei0iF6HWToAAAAC/pjsk-pjsk-anime.gif" alt="Coding GIF" />
-
-_A girl falling in love with her Machine 💻_
+  
 
 <p>
   <a href="mailto:indrayanibhosale01@gmail.com">
@@ -15,15 +15,5 @@ _A girl falling in love with her Machine 💻_
     <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" />
   </a>
 </p>
-
-<img width="500" src="https://quotes-github-readme.vercel.app/api?type=horizontal&quoteColor=ff6188&authorColor=ffd866&backgroundColor=2d2a2e&symbolColor=ab9df2" alt="Dev Quote" />
-
+<img width="600" src="https://quotes-github-readme.vercel.app/api?type=horizontal&quoteColor=ff6188&authorColor=ffd866&backgroundColor=2d2a2e&symbolColor=ab9df2" alt="Dev Quote" />
 <br clear="right"/>
-
----
-
-## 📊 Most Used Languages
-
-<p align="center">
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=IndrayaniBhosale&layout=compact&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=f78166&text_color=c9d1d9&langs_count=6" alt="Most Used Languages" />
-</p>
