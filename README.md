@@ -15,5 +15,7 @@
     <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" />
   </a>
 </p>
-<img width="550" src="https://quotes-github-readme.vercel.app/api?type=horizontal&quoteColor=ff6188&authorColor=ffd866&backgroundColor=2d2a2e&symbolColor=ab9df2" alt="Dev Quote" />
-<br clear="right"/>
+
+
+
+
